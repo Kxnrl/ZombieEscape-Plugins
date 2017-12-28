@@ -1,0 +1,138 @@
+ "Phrases"
+{
+	"commander vote countdown"
+	{
+		"en"		"{green}vote start in {red}30{green}s! type !cn to nominate commander | type !chelp to open help panel"
+		"chi"		"{green}投票在{red}30{green}秒内开始! 输入!cn提名指挥官|输入!chelp打开帮助菜单."
+		"zho"		"{green}投票在{red}30{green}秒內開始! 輸入!cn提名指揮官|輸入!chelp打開幫助菜單."
+	}
+	
+	"commander disconnected"
+	{
+		"en"		"Commander disconnected from server."
+		"chi"		"指挥官已经与服务器断开连接."
+		"zho"		"指揮官已經和伺服器斷開連線."
+	}
+	
+	"commander kick"
+	{
+		"en"		"{red}Admin kicked Commander."
+		"chi"		"{red}权限X取消了现任指挥官."
+		"zho"		"{red}管理員拿掉了現在的指揮官."
+	}
+	
+	"admin set commander"
+	{
+		"#format"	"{1:N}"
+		"en"		"{green}Admin set {blue} {1} {green} as commander"
+		"chi"		"{green}权限X设置{blue} {1} {green}为指挥官."
+		"zho"		"{green}管理員設置{blue} {1} {green}當指揮官."
+	}
+	
+	"cant nominate by commander"
+	{
+		"#format"	"{1:N}"
+		"en"		"u cant nominate now. {green}{1}{normal} is commander."
+		"chi"		"你现在不能提名, {green}{1}{normal} 现在是指挥官."
+		"zho"		"你現在不能提名, {green}{1}{normal} 現在是指揮官."
+	}
+	
+	"cant nominate by nominated"
+	{
+		"en"		"you have been nominated."
+		"chi"		"你已经提名过了"
+		"zho"		"你已經提名過了"
+	}
+	
+	"commander nomination title"
+	{
+		"en"		"nominate a commander"
+		"chi"		"提名一个指挥官"
+		"zho"		"提名一個指揮官"
+	}
+	
+	"no commander"
+	{
+		"en"		"{green}no commander now"
+		"chi"		"{green}目前沒有指挥官"
+		"zho"		"{green}現在沒有指揮官"
+	}
+	
+	"show commander"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{blue}{1} {green}now is commander({2} score)"
+		"chi"		"{blue}{1} {green}现在是指挥官({2} score)."
+		"zho"		"{blue}{1} {green}現在是指揮官({2} score)."
+	}
+
+	"commander resigned"
+	{
+		"en"		"{green}Commander has resigned!"
+		"chi"		"{green}指挥官已经辞职不干了!"
+		"zho"		"{green}指揮官辭職不幹跑路了!"
+	}
+	
+	"commander survived"
+	{
+		"en"		"{green}Commander survived!"
+		"chi"		"{green}指挥官带领咸鱼们通关了!"
+		"zho"		"{green}指揮官存活了!"
+	}
+	
+	"commander down"
+	{
+		"en"		"{red}Commander down!"
+		"chi"		"{red}指挥官嗝屁了,剩下的路你好自为之."
+		"zho"		"{red}指揮官死了."
+	}
+	
+	"commander infected"
+	{
+		"en"		"{red}Commander was infected!"
+		"chi"		"{red}指挥官已尸变,剩下的路你好自为之."
+		"zho"		"{red}指揮官死了."
+	}
+	
+	"uncommander"
+	{
+		"en"		"{red}now you are not commander!"
+		"chi"		"{red}你不再是指挥官了."
+		"zho"		"{red}你不再是指揮官了."
+	}
+	
+	"commander is zombie"
+	{
+		"en"		"{red}Commander is zombie, restart game!"
+		"chi"		"{red}指挥官在僵尸阵营.重新开始回合"
+		"zho"		"{red}指揮官是喪屍,從新開始遊戲"
+	}
+	
+	"vote commander title"
+	{
+		"en"		"Select a player"
+		"chi"		"投票选择指挥官"
+		"zho"		"投票選擇指揮官"
+	}
+    
+    "current commander"
+    {
+        "en"		"Commander: "
+		"chi"		"指挥官:  "
+		"zho"		"指挥官:  "
+    }
+    
+    "waiting"
+    {
+        "en"		"WAITING..."
+		"chi"		"等待投票"
+		"zho"		"還沒有開始投票"
+    }
+    
+    "voting"
+    {
+        "en"		"Voting..."
+        "chi"		"正在投票"
+        "zho"		"正在投票"
+    }
+}
